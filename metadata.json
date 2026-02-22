@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Bot",
+  "description": "A complete, production-ready WhatsApp Bot using Node.js, Express, and MongoDB.",
+  "requestFramePermissions": []
+}
